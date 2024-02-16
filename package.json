@@ -1,0 +1,19 @@
+{
+  "name": "ts-firestore",
+  "version": "1.0.0",
+  "description": "環境構築をする ```bash npm init -y ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "firebase": "^10.8.0"
+  }
+}
